@@ -25,6 +25,6 @@ dimana judul videonya adalah [QuickTip #6 : TIMING EVENTS pada JAVASCRIPT](https
 
 [tekan link ini](https://candradwicahyo.github.io/simple-countdown) untuk mencoba program ini
 
-jangan lupa untuk memberikan sebuah **star** jika kalian suka dengan **source code** atau **program** ini.
+jangan lupa untuk memberikan sebuah **stars** jika kalian suka dengan **source code** atau **program** ini.
 
 > **candra dwi cahyo** - **2022**
